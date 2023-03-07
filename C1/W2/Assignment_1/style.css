@@ -1,0 +1,30 @@
+#blog h1 {
+    color: blue;
+}
+
+:hover > h1 {
+    color: orange;
+}
+
+p {
+    text-align: justify;
+}
+
+.parent {
+    border: 10px solid red;
+}
+
+/* .child {
+    display: block;
+    width: 100px;
+    padding: 20px;
+    border: 10px solid green;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+
+
+.child {
+    float: right;
+}
